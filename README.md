@@ -5,7 +5,9 @@
 
 ### Project i work on :
 
-<img src="https://media.discordapp.net/attachments/1121258432398381146/1126954105257086986/Logo_Osint_DB_9.jpg" width="100"><a href="https://osint-db.com/"></a></img>
+<img src="https://media.discordapp.net/attachments/1121258432398381146/1126954105257086986/Logo_Osint_DB_9.jpg" width="100"/>
+
+<a href="https://osint-db.com/"> ⋗ Osint-db</a>
 
 ### My GitHub Stats 
 

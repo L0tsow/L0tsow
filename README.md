@@ -17,3 +17,4 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=L0tsow&layout=compact&theme=synthwave&hide_border=true" style="width : 450px;"/>
 
 Ukrainian student 🇺🇦 
+Slava Ukraini

@@ -1,4 +1,4 @@
-### _0xL0tsow_
+### _L0tsow_
 <br>
 
 <p align="left"> <a href="https://twitter.com/0xL0tsow" target="blank"><img src="https://img.shields.io/twitter/follow/0xL0tsow?logo=twitter&style=for-the-badge" alt="0xL0tsow" /></a> </p>

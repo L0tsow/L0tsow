@@ -12,7 +12,4 @@
 
 ### My GitHub Stats 
 
-
-<img src="https://github-readme-stats.vercel.app/api?username=L0tsow&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&theme=synthwave" style="width : 450px;"/>
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=L0tsow&layout=compact&theme=synthwave&hide_border=true" style="width : 450px;"/>
